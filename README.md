@@ -2,6 +2,7 @@
 # FIRST COME FIRST SERVE
 AIM:
 To write a program for the first come first serve method of disc scheduling.
+
 ALGORITHM:
 ```
 1: Initialize an array RQ to store disk requests and variables n, TotalHeadMoment, and initial.
