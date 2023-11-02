@@ -56,7 +56,7 @@ file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-10-21%2017-17-03.
 RESULT:
 Thus the implementation of FCFS (First come first serve) Disk scheduling algorithm in C programming is done successfully.
 
-#SHORTEST SEEK TIME FIRST
+# SHORTEST SEEK TIME FIRST
 
 AIM:
 To implement SSTF (Short seek time first ) Disk scheduling algorithm in C programming.
